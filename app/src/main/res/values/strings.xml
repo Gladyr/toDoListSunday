@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">To do list sunday</string>
+    <string name="add_new_note">add new note</string>
+    <string name="low">low</string>
+    <string name="medium">medium</string>
+    <string name="high">high</string>
+</resources>
